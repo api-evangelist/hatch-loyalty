@@ -63,6 +63,7 @@ tags:
 - Convenience Stores
 - Fuel Retail
 - Payments
+- Loyalty & Incentives
 tags_raw:
 - Company
 - Customer Loyalty
@@ -72,6 +73,7 @@ tags_raw:
 - Convenience Store
 - Fuel Retail
 - Payments
+- Loyalty & Incentives
 apis: []
 common:
 - type: GitHubOrganization
